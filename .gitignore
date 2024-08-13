@@ -1,0 +1,7 @@
+/dist
+/tsconfig.json
+/node_modules
+/.idea
+.env
+/test
+/tests
